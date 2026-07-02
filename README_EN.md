@@ -194,4 +194,4 @@ Issues and PRs welcome.
 
 ## License
 
-[MIT](LICENSE) © 2025 Zhwt, 2026 禾屿科技
+[MIT](LICENSE)

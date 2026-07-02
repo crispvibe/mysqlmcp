@@ -194,4 +194,4 @@ go build -o go-mcp-mysql .
 
 ## 开源协议
 
-[MIT](LICENSE) © 2025 Zhwt, 2026 禾屿科技
+[MIT](LICENSE)
