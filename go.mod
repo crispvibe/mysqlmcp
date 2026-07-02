@@ -1,4 +1,4 @@
-module github.com/Zhwt/go-mcp-mysql
+module github.com/crispvibe/mysqlmcp
 
 go 1.23.1
 
